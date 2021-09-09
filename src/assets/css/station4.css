@@ -1,24 +1,16 @@
+body {
+  height: 288px;
+  width: 304px;
+  background-color: #c4c4c4;
+  color: #282828;
+}
+
 header {
   background-color: #ffffff;
 }
 
-body {
-  background-color: #C4C4C4;
-}
-
-.nav {
+nav {
   background-color: #726666;
-}
-
-footer {
-  background-color: #ffffff;
-}
-
-body {
-  height: 288px;
-  width: 304px;
-  background-color: #ffffff;
-  color: #282828;
 }
 
 p {
@@ -42,4 +34,8 @@ p {
 
 .card__description {
   font-size: 12px;
+}
+
+footer {
+  background-color: #ffffff;
 }
