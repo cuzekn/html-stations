@@ -1,0 +1,42 @@
+body {
+  height: 288px;
+  width: 304px;
+  background-color: #c4c4c4;
+  color: #282828;
+}
+
+header {
+  background-color: #ffffff;
+}
+
+nav {
+  background-color: #726666;
+}
+
+p {
+  margin: 0;
+}
+
+.card {
+  padding: 8px 8px 14px 8px;
+  background-color: #ffffff;
+}
+
+.card img {
+  width: 288px;
+  height: 182px;
+  margin-bottom: 16px;
+}
+
+.card__title {
+  font-size: 14px;
+}
+
+.card__description {
+  font-size: 12px;
+}
+
+footer {
+  background-color: #ffffff;
+}
+
