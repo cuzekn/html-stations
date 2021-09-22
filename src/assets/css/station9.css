@@ -28,11 +28,11 @@ header {
   padding: 8px 8px 0 8px;
 }
 .card__title {
-  font-size: 12px;
+  font-size: 11px;
 }
 .card__description {
   display: none;
-  font-size: 12px;
+  font-size: 11px;
 }
 .card {
   background-color: chocolate;
@@ -57,11 +57,11 @@ footer {
     flex-wrap: wrap;
   }
   .card__title {
-    font-size: 12px;
+    font-size: 11px;
   }
   .card__description {
     display: block;
-    font-size: 12px;
+    font-size: 11px;
   }
 
   footer {
