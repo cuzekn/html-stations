@@ -5,10 +5,15 @@ body {
   color: #282828;
 }
 
+
+@media (min-width: 1200px) {
+
 header {
   background-color: #ffffff;
   width: 1440px;
   height: 52px;
+  border-radius: 1px solid #333;
+  margin: 0;
 }
 
 footer {
@@ -56,4 +61,10 @@ footer {
   align-items: center;
   padding: 66px 124px;
   margin-right: 141px;
+}
+
+.card-wrapper {
+  display: flex;
+}
+
 }
