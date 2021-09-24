@@ -3,5 +3,5 @@ function getData() {
     const arrow = () => {
         console.log("Arrow");
     }
-    return arrow();// ここにアロー関数の処理を書く
+    return "Arrow"// ここにアロー関数の処理を書く
 }
