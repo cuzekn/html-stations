@@ -10,7 +10,12 @@ async function getData() {
   return await result
 }
 
-function test() {
-  return
+function test(data) {
+  return new Promise(function (resolve, reject) {
+    setTimeout(function () {
+      console.log(data);
+      resolve();
+    },3000);
+  });
 }
 
